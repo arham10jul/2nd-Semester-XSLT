@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="main.xsl" type="text/xsl"?>
+   <bank>
+        <acc>
+            <id>101</id>
+            <name>Ali</name>
+            <email>ali@</email>
+
+        </acc>
+        <acc>
+            <id>102</id>
+            <name>Amjad</name>
+            <email>amjad@</email>
+
+        </acc>
+        <acc>
+            <id>103</id>
+            <name>Aman</name>
+            <email>aman@</email>
+
+        </acc>
+        <acc>
+            <id>104</id>
+            <name>Haris</name>
+            <email>haris@</email>
+
+        </acc>
+    </bank>
